@@ -2,7 +2,7 @@
 # Script:      10_export_gene_lists_waterfall.R
 # Project:     Transcriptomic profile in canine breast cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Prepares ordered logFC data (for plotting a waterfall plot in
 #              Prism) and exports up/down gene lists for each contrast as .txt
 #              files, ready to upload to Enrichr (https://maayanlab.cloud/Enrichr/)
