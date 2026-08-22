@@ -2,7 +2,7 @@
 # Script:      24_tf_intersections_volcanos.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: (1) Extracts upregulated and downregulated DEG gene lists from
 #              the limma toptables (|logFC| >= 1, FDR < 0.05). (2) Intersects
 #              DEG lists with the HPA-derived TF reference list.
