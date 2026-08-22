@@ -2,7 +2,7 @@
 # Script:      02_normalization_rma.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Applies RMA normalization (background correction + quantile
 #              normalization + summarization at transcript cluster level) and
 #              generates the post-normalization boxplot to verify that the
