@@ -2,7 +2,7 @@
 # Script:      13_gsva_ortholog_mapping.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Maps canine gene symbols (Canis lupus familiaris) to their
 #              human (Homo sapiens) orthologs using Ensembl BioMart. Only
 #              strict one-to-one orthologs are retained to ensure unambiguous
