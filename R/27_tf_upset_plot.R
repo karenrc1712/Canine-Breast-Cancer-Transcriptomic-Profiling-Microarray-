@@ -2,7 +2,7 @@
 # Script:      27_tf_upset_plot.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: UpSet plot showing which DEG subsets (up/down in CS and CTM)
 #              overlap with the HPA transcription factor reference list.
 #              Five sets are intersected:
