@@ -2,7 +2,7 @@
 # Script:      15_gsva_run.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Runs Gene Set Variation Analysis (GSVA) using the GO Biological
 #              Process gene sets built in script 16. GSVA estimates per-sample
 #              gene set enrichment scores in a non-parametric, unsupervised
