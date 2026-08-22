@@ -2,7 +2,7 @@
 # Script:      23_tf_hpa_extraction.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Downloads the Human Protein Atlas (HPA) full dataset and
 #              extracts the transcription factor (TF) reference gene list:
 #              genes with "Transcription factor" in the Protein.class field.
