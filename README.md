@@ -6,7 +6,7 @@ normal tissue (N) against two carcinoma histological subtypes: simple
 carcinoma (CS) and carcinoma in mixed tumor (CTM).
 
 **Author:** Karen Rodríguez
-**Advisor:** Geysson Javier Hernández
+**Advisor:** Geysson Javier Fernández 
 
 ##Data Availability Note
 
