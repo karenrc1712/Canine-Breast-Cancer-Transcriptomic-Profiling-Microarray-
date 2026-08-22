@@ -2,7 +2,7 @@
 # Script:      25_tf_dorothea_networks.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Constructs TF-target regulatory networks for CS and CTM using
 #              the DoRothEA curated regulon database (confidence levels A/B/C).
 #              For each condition:
