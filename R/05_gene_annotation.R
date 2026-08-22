@@ -6,7 +6,7 @@
 #
 # Author:      Karen Rodriguez
 #
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 #
 # Description: Maps the transcript_cluster_id (probe identifiers from the
 #              CanGene-1_0-st array) to gene symbols (gene_symbol) using the
