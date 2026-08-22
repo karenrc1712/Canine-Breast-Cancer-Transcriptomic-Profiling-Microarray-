@@ -2,7 +2,7 @@
 # Script:      21_alluvial_deg_direction.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: For each node gene in alluvial_info_up / alluvial_info_down,
 #              checks whether it is DE (and in which contrast: NCS and/or
 #              NCTM) consistent with its direction -- i.e. up-node genes are
