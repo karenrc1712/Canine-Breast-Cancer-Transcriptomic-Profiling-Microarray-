@@ -6,7 +6,7 @@
 #
 # Author:      Karen Rodriguez
 #
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 #
 # Description: Builds an expression matrix filtered to include only DEGs
 #              (combining N vs CS and N vs CTM, retaining the probeset with
