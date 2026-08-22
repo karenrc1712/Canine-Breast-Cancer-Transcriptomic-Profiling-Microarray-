@@ -2,7 +2,7 @@
 # Script:      16_gsva_differential_enrichment.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Applies limma to the GSVA enrichment score matrix to identify
 #              GO Biological Process terms that are significantly and
 #              differentially enriched between experimental groups.
