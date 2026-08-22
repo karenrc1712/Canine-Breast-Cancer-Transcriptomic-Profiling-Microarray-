@@ -8,7 +8,7 @@
 # Karen Rodriguez
 #
 # Supervisor:
-# Geysson Javier Hernandez
+# Geysson Javier Fernández
 #
 # Description:
 # Loads raw .CEL files and performs quality control BEFORE normalization.
