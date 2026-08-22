@@ -2,7 +2,7 @@
 # Script:      14_gsva_go_genesets.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Builds GO Biological Process (BP) gene sets from the human
 #              annotation database (org.Hs.eg.db). Applies three filters:
 #                1. Retains only current (non-obsolete) GO terms
