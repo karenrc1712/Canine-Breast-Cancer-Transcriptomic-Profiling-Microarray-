@@ -6,7 +6,7 @@
 #
 # Author:      Karen Rodriguez
 #
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 #
 # Description: Starting from the top tables, filters differentially expressed
 #              genes (DEGs) for each contrast using the following thresholds:
