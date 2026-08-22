@@ -6,7 +6,7 @@
 #
 # Author:      Karen Rodriguez
 #
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 #
 # Description: Exploratory PCA using the 5000 most variable genes from the
 #              entire normalized matrix (not yet filtered by significance).
