@@ -6,7 +6,7 @@
 #
 # Author:      Karen Rodriguez
 #
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 #
 # Description: Fits a linear model (limma) to the annotated matrix and
 #              calculates differential expression for 3 contrasts:
