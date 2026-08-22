@@ -6,7 +6,7 @@
 #
 # Author:      Karen Rodriguez
 #
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 #
 # Description: Generates 3 heatmaps of the DEGs (row-scaled / z-score):
 #
