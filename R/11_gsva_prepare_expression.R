@@ -2,7 +2,7 @@
 # Script:      11_gsva_prepare_expression.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Loads the annotated RMA expression table produced in script 05
 #              and prepares a gene-level matrix suitable for GSVA:
 #                - Separates metadata columns from sample intensity columns
