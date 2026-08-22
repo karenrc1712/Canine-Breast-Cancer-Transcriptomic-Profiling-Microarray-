@@ -2,7 +2,7 @@
 # Script:      26_tf_heatmaps.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Generates two z-score scaled pheatmap figures for TFs that are
 #              differentially expressed in either the NCS or NCTM contrast:
 #                - UP heatmap:   TFs upregulated in CS and/or CTM vs N
