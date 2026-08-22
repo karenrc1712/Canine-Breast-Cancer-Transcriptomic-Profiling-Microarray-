@@ -2,7 +2,7 @@
 # Script:      18_gsva_heatmaps.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Produces publication-quality ComplexHeatmap figures for GSVA
 #              pathway enrichment scores (logFC from limma on GSVA matrix).
 #              Two separate heatmaps are generated:
