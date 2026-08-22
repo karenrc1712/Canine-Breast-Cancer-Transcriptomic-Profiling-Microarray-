@@ -2,7 +2,7 @@
 # Script:      22_alluvial_plot_hub_genes.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Publication-quality 3-axis alluvial plots (Hub Gene -> GO
 #              Biological Process -> Hallmark of Cancer), split into two
 #              SEPARATE figures: one for UP-regulated hub genes/processes,
