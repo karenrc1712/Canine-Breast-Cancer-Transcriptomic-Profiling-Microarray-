@@ -2,7 +2,7 @@
 # Script:      00_setup.R
 # Project:     Canine Breast Cancer Transcriptomic Profiling (Microarray)
 # Author:      Karen Rodriguez
-# Supervisor:  Geysson Javier Hernandez
+# Supervisor:  Geysson Javier Fernández
 #
 # Description:
 # Installs and loads all packages required by the analysis pipeline.
