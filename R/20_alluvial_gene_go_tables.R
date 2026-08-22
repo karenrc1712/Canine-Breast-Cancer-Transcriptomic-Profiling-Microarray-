@@ -2,7 +2,7 @@
 # Script:      20_alluvial_gene_go_tables.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Identifies "node" genes -- genes shared across more than one
 #              enriched GO BP term -- among the top selected pathways
 #              (tabla_stats_up / tabla_stats_down) and builds two long-format
