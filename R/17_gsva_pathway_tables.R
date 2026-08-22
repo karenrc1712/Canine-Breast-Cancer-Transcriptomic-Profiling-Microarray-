@@ -2,7 +2,7 @@
 # Script:      17_gsva_pathway_tables.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Selects the top differentially enriched GO BP terms for both
 #              upregulated (logFC > 0) and downregulated (logFC < 0) pathways
 #              across the CS vs N and CTM vs N contrasts. For each direction:
