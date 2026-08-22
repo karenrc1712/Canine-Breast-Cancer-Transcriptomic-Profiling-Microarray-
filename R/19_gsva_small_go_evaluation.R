@@ -2,7 +2,7 @@
 # Script:      19_gsva_small_go_evaluation.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: GO terms with few genes after data intersection (< 10) can
 #              produce GSVA scores dominated by one or two highly variable
 #              genes, making the score unreliable as a pathway-level estimate.
