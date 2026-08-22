@@ -2,7 +2,7 @@
 # Script:      12_gsva_sva_batch_estimation.R
 # Project:     Transcriptomic profiling in canine mammary cancer (microarray)
 # Author:      Karen Rodriguez
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 # Description: Estimates the number and identity of surrogate variables (SVs)
 #              in the expression matrix using the SVA package (Leek method).
 #              SVs capture unwanted technical variation (batch effects, sample
