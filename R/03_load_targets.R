@@ -5,7 +5,7 @@
 
 # Author:      Karen Rodriguez
 
-# Advisor:     Geysson Javier Hernandez
+# Advisor:     Geysson Javier Fernández
 
 # Description: Loads the metadata table (targets: which sample belongs to
 #              which experimental group: N = normal, CS = simple carcinoma,
